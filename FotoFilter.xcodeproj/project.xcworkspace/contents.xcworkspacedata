@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:SingleView.xcodeproj">
+      location = "self:/Users/roc5/Documents/FotoFilter/FotoFilter.xcodeproj">
    </FileRef>
 </Workspace>

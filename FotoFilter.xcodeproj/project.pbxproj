@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D5BD590B217A52950070F937 /* SingleView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SingleView.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D5BD590B217A52950070F937 /* FotoFilter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FotoFilter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5BD590E217A52950070F937 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D5BD5910217A52950070F937 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D5BD5913217A52950070F937 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		D5BD590C217A52950070F937 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D5BD590B217A52950070F937 /* SingleView.app */,
+				D5BD590B217A52950070F937 /* FotoFilter.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D5BD590A217A52950070F937 /* SingleView */ = {
+		D5BD590A217A52950070F937 /* FotoFilter */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D5BD591D217A52990070F937 /* Build configuration list for PBXNativeTarget "SingleView" */;
+			buildConfigurationList = D5BD591D217A52990070F937 /* Build configuration list for PBXNativeTarget "FotoFilter" */;
 			buildPhases = (
 				D5BD5907217A52950070F937 /* Sources */,
 				D5BD5908217A52950070F937 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = SingleView;
+			name = FotoFilter;
 			productName = SingleView;
-			productReference = D5BD590B217A52950070F937 /* SingleView.app */;
+			productReference = D5BD590B217A52950070F937 /* FotoFilter.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -99,7 +99,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D5BD5906217A52950070F937 /* Build configuration list for PBXProject "SingleView" */;
+			buildConfigurationList = D5BD5906217A52950070F937 /* Build configuration list for PBXProject "FotoFilter" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D5BD590A217A52950070F937 /* SingleView */,
+				D5BD590A217A52950070F937 /* FotoFilter */,
 			);
 		};
 /* End PBXProject section */
@@ -319,7 +319,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D5BD5906217A52950070F937 /* Build configuration list for PBXProject "SingleView" */ = {
+		D5BD5906217A52950070F937 /* Build configuration list for PBXProject "FotoFilter" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D5BD591B217A52990070F937 /* Debug */,
@@ -328,7 +328,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D5BD591D217A52990070F937 /* Build configuration list for PBXNativeTarget "SingleView" */ = {
+		D5BD591D217A52990070F937 /* Build configuration list for PBXNativeTarget "FotoFilter" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D5BD591E217A52990070F937 /* Debug */,
